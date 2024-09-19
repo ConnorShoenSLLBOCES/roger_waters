@@ -1,0 +1,125 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* Header CSS */
+header {
+    background-color: #000;
+    color: #fff;
+    border-bottom: #bbb solid 5px;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 50%;
+    padding: 0 25%;
+}
+
+/* Nav CSS */
+nav {
+	display: block; 
+	width: 95%;
+	font-size: 1.5em;
+}
+
+nav ul {
+	list-style: none;
+	display: block;
+	text-align: center;
+	margin: 0 auto;
+	padding: 5%;
+}
+
+nav a {
+	text-align: center;
+	font-size: 1em;
+	text-decoration: none;
+	padding: 0.1em 0.75em;
+	background-color: #666;
+    border: 2px solid #bbb;
+}
+
+nav a .red {
+    color: #570000;
+}
+
+nav a .green {
+    color: #4CB963;
+}
+
+nav a .purple {
+    color: #9000B3;
+}
+
+nav li {
+	display: inline-block;
+    text-align: center;
+    margin: 0 auto;
+}
+
+nav li .red {
+    color: #570000;
+}
+
+nav li .green {
+    color: #4CB963;
+}
+
+nav li .purple {
+    color: #9000B3;
+}
+
+nav ul {
+	list-style: none;
+	text-align: center;
+	margin: auto;
+}
+
+/* Main CSS */
+main {
+    background-color: #555555;
+}
+
+h2 {
+    padding: 0 2%;
+    color: #fff;
+}
+
+p {
+    color: #fff;
+    padding: 1% 4%;
+}
+
+.red {
+    color: #570000;
+}
+
+.orange {
+    color: #E86100;
+}
+
+.yellow {
+    color: #FFD400;
+}
+
+.green {
+    color: #4CB963;
+}
+
+.blue {
+    color: #086375;
+}
+
+.indigo {
+    color: #0A122A;
+}
+
+.purple {
+    color: #9000B3;
+}
