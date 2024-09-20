@@ -84,6 +84,7 @@ nav ul {
 /* Main CSS */
 main {
     background-color: #555555;
+    padding: 2% 0;
 }
 
 h2 {
@@ -117,9 +118,31 @@ p {
 }
 
 .indigo {
-    color: #0A122A;
+    color: #192048;
 }
 
 .purple {
     color: #9000B3;
+}
+
+a {
+    text-decoration: none;
+}
+
+#text {
+    width: 85%;
+    border: #000 solid 2px;
+    background-color: #666;
+    margin: 0 auto;
+}
+
+footer {
+    color: #fff;
+    background-color: #000;
+}
+
+h5 {
+    width: 80%;
+    margin: 0 auto;
+    padding-bottom: 2%;
 }
