@@ -45,34 +45,10 @@ nav a {
     border: 2px solid #bbb;
 }
 
-nav a .red {
-    color: #570000;
-}
-
-nav a .green {
-    color: #4CB963;
-}
-
-nav a .purple {
-    color: #9000B3;
-}
-
 nav li {
 	display: inline-block;
     text-align: center;
     margin: 0 auto;
-}
-
-nav li .red {
-    color: #570000;
-}
-
-nav li .green {
-    color: #4CB963;
-}
-
-nav li .purple {
-    color: #9000B3;
 }
 
 nav ul {
@@ -114,7 +90,7 @@ p {
 }
 
 .blue {
-    color: #086375;
+    color: #6495ED;
 }
 
 .indigo {
@@ -122,7 +98,7 @@ p {
 }
 
 .purple {
-    color: #9000B3;
+    color: #CF9FFF;
 }
 
 a {
@@ -145,4 +121,12 @@ h5 {
     width: 80%;
     margin: 0 auto;
     padding-bottom: 2%;
+}
+
+h3 {
+    padding-left: 3%;
+}
+
+h4 {
+    padding-left: 4%;
 }
